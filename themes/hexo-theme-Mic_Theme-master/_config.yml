@@ -10,9 +10,9 @@ head:
     keywords: miccall
 
 Intro:
-    name: MICCALL
+    name: Lance
     slogan: "Whatever is worth doing is worth doing well <br/> I'll think of you every step of the way"
-    HeadButton: MICCALL
+    HeadButton: Lance
 
 Nav:
     Home_name: 主页
@@ -46,7 +46,7 @@ Nav:
         #   link：“路径”
 
 MainFirst:
-    name: Miccall Metro
+    name: Lance
     description: Welcome to my Blog  
     pic_url: /images/me.jpg
     goto_ulr: ""
